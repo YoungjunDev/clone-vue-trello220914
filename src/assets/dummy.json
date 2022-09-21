@@ -1,0 +1,118 @@
+{
+    "board": [
+        {
+            "board_name": "timeline",
+            "board_item": [
+                {
+                    "list_title": "ToDo",
+                    "list_item": [
+                        {                      
+                            "card_title": "Activity",
+                            "card_detail": "coding"
+                        },
+
+                        {
+                            "card_title": "이벤트 구성하기",
+                            "card_detail": "HTML CSS로 화면 완성하기"
+                        }
+                    ]
+                },
+                {
+                    "list_title": "Doing",
+                    "list_item": [
+                        {
+                            "card_title": "Morning Meeeting",
+                            "card_detail": "Commitment to your coding attitude"
+                        },
+                        {
+                            "card_title": "Lunch meeting",
+                            "card_detail": "Follow the code map"
+                        },
+                        {
+                            "card_title": "Evening Meeting",
+                            "card_detail": "Always actively questioning direction"
+                        }
+                    ]
+                },
+                {
+                    "list_title": "Done",
+                    "list_item": [
+                        {
+                            "card_title": "CSS를 구성한다.",
+                            "card_detail": "주어진 화면과 똑같은 화면처럼 구성하기"
+                        },
+                        {
+                            "card_title": "컴포넌트로 나눈다.",
+                            "card_detail": "세로열 하나를 컴포넌트, 세로열 v-for, 세로열 컴포넌트안에서 v-for..."
+                        },
+                        {
+                            "card_title": "이벤트를 구현한다.",
+                            "card_detail": "클릭시 내용 수정 event, add-list 버튼 클릭시 숨겨져 있는 생성 화면 event..."
+                        },
+                        {
+                            "card_title": "최종 데이터 조작과 연결한다.",
+                            "card_detail": "실제 Data 또는 DB에 연결?"
+                        }
+                    ]
+                }
+            ]
+        },        
+        {
+            "board_name": "더미2",
+            "board_item": [
+                {
+                    "list_title": "ToDo2",
+                    "list_item": [
+                        {                      
+                            "card_title": "더미2",
+                            "card_detail": "더미2"
+                        },
+
+                        {
+                            "card_title": "더미2",
+                            "card_detail": "더미2"
+                        }
+                    ]
+                },
+                {
+                    "list_title": "더미2",
+                    "list_item": [
+                        {
+                            "card_title": "더미2",
+                            "card_detail": "더미2"
+                        },
+                        {
+                            "card_title": "더미2",
+                            "card_detail": "더미2"
+                        },
+                        {
+                            "card_title": "더미2",
+                            "card_detail": "더미2"
+                        }
+                    ]
+                },
+                {
+                    "list_title": "Done2",
+                    "list_item": [
+                        {
+                            "card_title": "더미2",
+                            "card_detail": "더미2"
+                        },
+                        {
+                            "card_title": "더미2",
+                            "card_detail": "더미2"
+                        },
+                        {
+                            "card_title": "더미2",
+                            "card_detail": "더미2"
+                        },
+                        {
+                            "card_title": "더미2",
+                            "card_detail": "더미2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
